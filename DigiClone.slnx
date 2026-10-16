@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/backend/">
+    <Project Path="backend/DigiClone.Api/DigiClone.Api.csproj" />
+  </Folder>
+</Solution>
